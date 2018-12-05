@@ -2,7 +2,6 @@
 #include "ElephantPosition.h"
 #include  <algorithm>
 #include <iostream>
-#include<ctime>
 
 
 ElephantPosition::ElephantPosition(std::string& data) : Position(data)

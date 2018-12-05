@@ -1,6 +1,5 @@
 #pragma once
 #include "Position.h"
-#include "Elephant.h"
 #include <map>
 
 class ElephantPosition : public Position
